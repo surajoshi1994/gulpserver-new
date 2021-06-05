@@ -4,18 +4,19 @@
   "description": "this test server",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/surajoshi1994/gulpserver.git"
+    "url": "git+https://github.com/surajoshi1994/gulpserver-new.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/surajoshi1994/gulpserver/issues"
   },
-  "homepage": "https://github.com/surajoshi1994/gulpserver#readme",
+  "homepage": "https://github.com/surajoshi1994/gulpserver-new#readme",
   "dependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
